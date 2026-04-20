@@ -68,8 +68,8 @@ Dan Denia Base dibuat dengan prinsip itu.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/r7yukii23-cmyk/denia-base.git
-cd denia-base
+git clone https://github.com/r7yukii23-cmyk/denia.git
+cd denia
 ```
 
 ### 2. Install Dependencies
